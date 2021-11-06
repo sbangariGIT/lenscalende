@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "705272056639",
+    "project_id": "lenscalender",
+    "storage_bucket": "lenscalender.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705272056639:android:88fd0370b2b309ea5b218a",
+        "android_client_info": {
+          "package_name": "com.example.lenscalende"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705272056639-c193e1dgctgubsfuqbgo716vdl4l7mll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_FUmRNjVWTyYTeAofbyqb4-BjWGW-9hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705272056639-c193e1dgctgubsfuqbgo716vdl4l7mll.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "705272056639-08h5ru153m913ssscqvlc37rfsrevt4c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lenscalende"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
